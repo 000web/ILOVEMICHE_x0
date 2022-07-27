@@ -275,7 +275,7 @@ html, body, #menu{
     padding: 0rem;
     margin: 0px auto;
     /*☣☣☣*/
-    color: #00E3BD;
+    color: crimson;
     font-weight: 600;
     text-align: center;
     /*☣☣☣*/
@@ -286,11 +286,11 @@ html, body, #menu{
     /*MARISCOS SINALOENSES (p17 to p21) PRODUCTS TITLES*/
     background-color: black;
     border-radius: 1rem;
-    border: #00E3BD solid 3px;
+    border: crimson solid 3px;
     width: fit-content;
     padding: 0.3rem 1.2rem 0.3rem 1.2rem;
     /*☣☣☣*/
-    color: #00E3BD;
+    color: crimson;
     font-weight: 600;
     text-align: center;
     /*☣☣☣*/
@@ -550,8 +550,8 @@ p{
     /*border-right: 2px solid #9b9b9b;*/
     /*border-left: 2px solid #9b9b9b;*/
     border-radius: 2rem;
-    border-top: 5px solid #00E3BD;
-    border-bottom: 5px solid #00E3BD;
+    border-top: 5px solid crimson;
+    border-bottom: 5px solid crimson;
     background-color: #adadad;
 }
 /*☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣☣*/
@@ -592,10 +592,13 @@ table, tr, td{
     font-weight: 600;
 }
 .mxn2{
-    border-radius: 1rem;
-    background-color: black;
-    color: white;
-    font-weight: 600;
+    /*border-radius: 1rem;*/
+    /*background-color: black;*/
+    /*color: crimson;*/
+    /*font-weight: 600;*/
+    font-weight: 900;
+    font-size: 0.8rem;
+    color: #424242;
 }
 .mxn_moskalti{
     border-radius: 1rem;
